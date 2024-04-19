@@ -1,4 +1,4 @@
-# OpenCVTextDetection
+# Text Detection using EAST (Efficient and Accurate Scene Text Detector)
 This repository contains a Python script for detecting text in images using the EAST (Efficient and Accurate Scene Text Detector) model. The EAST model is trained to detect text in natural scene images with high efficiency and accuracy.
 
 **Requirements**
@@ -6,6 +6,7 @@ This repository contains a Python script for detecting text in images using the 
 * OpenCV
 * NumPy
 * imutils
+
 **Usage**
 1. Clone the repository to your local machine:
 git clone https://github.com/your-username/your-repository.git
@@ -23,6 +24,6 @@ Finally, the script draws bounding boxes around the detected text regions on the
 ![download (1)](https://github.com/Theknowranking/OpenCVTextDetection/assets/54183267/047ca585-f89a-4cc4-b84d-0ed4aa580d89)
 
 References
-EAST: An Efficient and Accurate Scene Text Detector
-OpenCV: EAST text detection
-GitHub: oyyd/frozen_east_text_detection.pb
+* EAST: An Efficient and Accurate Scene Text Detector
+* OpenCV: EAST text detection
+* GitHub: oyyd/frozen_east_text_detection.pb
