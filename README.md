@@ -28,6 +28,6 @@ Finally, the script draws bounding boxes around the detected text regions on the
 ![download (1)](https://github.com/Theknowranking/OpenCVTextDetection/assets/54183267/047ca585-f89a-4cc4-b84d-0ed4aa580d89)
 
 References
-* EAST: An Efficient and Accurate Scene Text Detector
+* [EAST: An Efficient and Accurate Scene Text Detector](https://arxiv.org/abs/1704.03155)
 * OpenCV: EAST text detection
-* GitHub: oyyd/frozen_east_text_detection.pb
+* [GitHub: oyyd/frozen_east_text_detection.pb](https://github.com/oyyd/frozen_east_text_detection.pb)
